@@ -1,7 +1,3 @@
-# Gradle / build output
-build/
-.gradle/
-
 # OS / editor
 .DS_Store
 *.swp
